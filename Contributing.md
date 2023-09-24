@@ -10,7 +10,7 @@ Git Workflow
 
 Before this, ensure your ssh key and github account is all appropiately set up with your machine. (Let me know if you need a hand with this, or follow the [instructions on GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent))
 
-1. Using terminal, navigate to an appropiate directory and do `git clone git@github.com:idle-gaming/farm-clicker.gitt` This will clone the remote repository to your machine
+1. Using terminal, navigate to an appropiate directory and do `git clone git@github.com:idle-gaming/farm-clicker.git` This will clone the remote repository to your machine
 2. You now have the repository on your machine, I will list process of going from nothing to submitting a pull request
 
 ### Getting started with working on the repo
